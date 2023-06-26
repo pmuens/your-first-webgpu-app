@@ -1,5 +1,7 @@
 # Your first WebGPU app
 
+[Live Demo](https://pmuens.github.io/your-first-webgpu-app).
+
 Code written while following the Google Codelab ["Your first WebGPU app"](https://codelabs.developers.google.com/your-first-webgpu-app).
 
 ## Useful Commands
